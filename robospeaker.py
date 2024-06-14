@@ -1,8 +1,4 @@
-# import os
-# if __name__=='__main__':
-#     x = input("Enter the sentence or word: ")
-#     command = "say {}".format(x)
-#     os.system(command)
+'''-------------------------------------------- Robo Speaker-----------------------------------------------------'''
 import pyttsx3
 
 if __name__ == '__main__':
